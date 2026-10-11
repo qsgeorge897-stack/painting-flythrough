@@ -1,0 +1,7 @@
+# tested with Python 3.13 (CPU only is fine)
+numpy>=2.0
+opencv-python-headless>=4.9
+pillow>=10.0
+# depth estimation (Depth Anything V2 via Hugging Face). CPU wheel: pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.2
+transformers>=4.45

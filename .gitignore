@@ -1,0 +1,14 @@
+# generated / downloaded - recreate with the pipelines
+img/
+depth/
+debug/
+frames/
+out/
+web/data/*
+!web/data/worlds.json
+web/node_modules/
+web/three.module.js
+web/three.core.js
+__pycache__/
+*.pyc
+.DS_Store
