@@ -1,0 +1,63 @@
+{
+ "bridge": {
+  "fov": 62,
+  "zn": 2.0,
+  "zf": 18,
+  "gamma": 2.0,
+  "D": 1.8,
+  "layers": 7,
+  "edge": 0.25,
+  "clear": "0x2c3a2a"
+ },
+ "irises": {
+  "fov": 60,
+  "zn": 1.4,
+  "zf": 12,
+  "gamma": 1.6,
+  "D": 1.2,
+  "layers": 7,
+  "edge": 0.25,
+  "clear": "0x35583a"
+ },
+ "poppy": {
+  "fov": 64,
+  "zn": 1.8,
+  "zf": 40,
+  "gamma": 2.2,
+  "D": 1.6,
+  "layers": 7,
+  "edge": 0.25,
+  "clear": "0xc8c6b8"
+ },
+ "allee": {
+  "fov": 60,
+  "zn": 1.6,
+  "zf": 20,
+  "gamma": 1.8,
+  "D": 1.4,
+  "layers": 7,
+  "edge": 0.25,
+  "clear": "0x463a3c"
+ },
+ "magpie": {
+  "fov": 64,
+  "zn": 1.9,
+  "zf": 40,
+  "gamma": 2.2,
+  "D": 1.8,
+  "layers": 7,
+  "edge": 0.25,
+  "clear": "0xd6dae0"
+ },
+ "starry": {
+  "fov": 62,
+  "zn": 2.0,
+  "zf": 60,
+  "gamma": 1.0,
+  "D": 1.8,
+  "layers": 7,
+  "edge": 0.3,
+  "clear": "0x1c2a55",
+  "flow": true
+ }
+}
