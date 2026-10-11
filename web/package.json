@@ -1,0 +1,13 @@
+{
+  "name": "painting-flythrough-renderer",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Headless three.js renderer for painting fly-through videos",
+  "scripts": {
+    "postinstall": "node -e \"for (const f of ['three.module.js','three.core.js']) require('fs').copyFileSync('node_modules/three/build/'+f, f)\""
+  },
+  "dependencies": {
+    "playwright-core": "~1.63.0",
+    "three": "~0.186.1"
+  }
+}
